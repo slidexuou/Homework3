@@ -1,0 +1,30 @@
+.b1{
+    color: #e1323d;
+    background-color: #fff;
+    border-radius: 4px;
+    text-transform: uppercase;
+    height: 50px;
+    padding: 0 25px;
+    border: none;
+    line-height: 1.7rem;
+    width: 145px;
+}
+.b2{
+    height: 50px;
+    padding: 0 25px;
+    border: none;
+    background: #e1323d;
+    color: #fff;
+    border-radius: 4px;
+    text-transform: uppercase;
+    line-height: 1.7rem;
+    width: 145px;
+    margin-left: 20px;
+}
+*{
+    box-sizing: border-box;
+}
+p{
+    color: whitesmoke;
+    font-size: 2rem;
+}

@@ -1,0 +1,17 @@
+.textmain{
+    background-color:#f7f7f7 ;
+    flex-basis: 100%;
+    max-width: 100%;
+    height: 25rem;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 10rem;
+    margin-top: -2rem
+}
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+p{
+    font-size: 1.7rem;
+}

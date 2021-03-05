@@ -1,0 +1,28 @@
+.bg{
+    background-image: url(./auth-background.d98d7ff313fe2ec07d45.png);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 70rem;
+}
+.topcontent{
+    clear: both;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 100%;
+}
+.search{
+    clear: both;
+    margin-top: 17px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.footer{
+    clear: both;
+    background-color: #f7f7f7;
+    width: 100%;
+    height: 17rem;
+    margin-top: -2rem;
+    padding-top: 2rem;
+}

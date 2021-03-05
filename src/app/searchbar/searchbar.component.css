@@ -1,0 +1,28 @@
+input{
+    width: 77rem;
+    height: 6rem;
+    border: 1px solid #b91e25;
+    font-size: 7rem;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: textfield;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    border-radius: 7px;
+}
+*{
+    box-sizing: border-box;
+}
+input.placeholder{
+    font-size: 7rem;
+}

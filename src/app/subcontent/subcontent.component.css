@@ -1,0 +1,44 @@
+.subcon{
+    padding: 45px 0;
+    background: #fff;
+    height: 21rem;
+    border-top: 1px solid rgba(50,50,50,.1);
+    border-bottom: 1px solid rgba(50,50,50,.1);
+    -webkit-box-shadow: 0 0 1px 1px rgb(50 50 50 / 10%);
+    box-shadow: 0 0 1px 1px rgb(50 50 50 / 10%);
+    z-index: 2;
+    position: relative;
+    box-sizing: border-box;
+    float: left;
+    width: 300px;
+    
+}
+button{
+    height: 50px;
+    padding: 0 25px;
+    outline: 0;
+    border: none;
+    color: #e1323d;
+    background-color: #fff;
+    -webkit-transition: .25s background;
+    transition: .25s background;
+    cursor: pointer;
+    /* width: 100%; */
+    /* font-size: 1.5rem; */
+    line-height: 1.7rem;
+    border-radius: 0;
+    border: 1px solid #ececec;
+    margin-left: 15%;
+}
+p.1{
+    margin-left: 10%;
+}
+p{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.subcon2{
+    background-color:#fff ;
+    padding-bottom: 15rem;
+    padding-top: 1.5rem;
+}
